@@ -1,5 +1,7 @@
 # My First Microservices Application
 
+![GitHub Logo](/picture/dockercommands.jpeg)  
+
 # Docker command:  
 ```
 docker build -t dockerid/posts .  
